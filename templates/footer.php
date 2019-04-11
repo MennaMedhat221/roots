@@ -2,7 +2,3 @@
   <div class="container">
   </div>
 </footer>
-
-<script>
-
-</script>
